@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: cbcf282e690c281069a623fe0651b3e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vegetation_grass
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 1024
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7fbce5209e77d05b4f91bd62d99821
+      internalID: -1470144054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetation_grass_short
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08415c1afb1ea658a632ad6f20749f3
+      internalID: -1207230241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetation_grass_medium
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 512
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6461fd27b8368408803bba388e275e
+      internalID: -1817432120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetation_grass_large
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814bb8fb3fac9a2b8835684b35780fae
+      internalID: -483229880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetation_plant_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a379b2935cfdde72586273600a3bbc40
+      internalID: -1362765098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetation_plant_02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5800881b5da5bc3d180657a55c7fcbaf
+      internalID: -684127484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetation_plant_03
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b9b06cccd8e8bf8d5b34f7854048e
+      internalID: 1866412617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetation_plant_04
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc09a0de8aad94389f3ed4fff9b121
+      internalID: -1940045291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetation_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622b2ef8050eaba9ba3a3c775488fee9
+      internalID: 1121915244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetation_02
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2cade2c1e6a2fc4b03d8fe8928629c
+      internalID: -729450538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vegetation_01: 1121915244
+      Vegetation_02: -729450538
+      Vegetation_1_0: -2094863055
+      Vegetation_1_1: 419914538
+      Vegetation_1_10: -1150135413
+      Vegetation_1_100: -1509793465
+      Vegetation_1_102: 379501627
+      Vegetation_1_103: -864664357
+      Vegetation_1_104: -1074119163
+      Vegetation_1_106: 283734206
+      Vegetation_1_107: -601017132
+      Vegetation_1_108: 1570716220
+      Vegetation_1_109: -1467385063
+      Vegetation_1_11: -632990144
+      Vegetation_1_110: -1708972978
+      Vegetation_1_111: 1643877452
+      Vegetation_1_112: 1278099636
+      Vegetation_1_113: 1612326464
+      Vegetation_1_114: 859919822
+      Vegetation_1_115: 2118845526
+      Vegetation_1_116: 2023578456
+      Vegetation_1_117: -783907834
+      Vegetation_1_118: 1765361221
+      Vegetation_1_119: -1858065339
+      Vegetation_1_12: 1076762750
+      Vegetation_1_120: 107598884
+      Vegetation_1_121: -1700777206
+      Vegetation_1_122: -659027632
+      Vegetation_1_123: -505147568
+      Vegetation_1_124: -1438146976
+      Vegetation_1_125: 2089040313
+      Vegetation_1_126: 978599245
+      Vegetation_1_127: 896439105
+      Vegetation_1_128: 385262979
+      Vegetation_1_129: -2070759390
+      Vegetation_1_13: 2121465551
+      Vegetation_1_130: -356956788
+      Vegetation_1_131: -694932453
+      Vegetation_1_132: -787329192
+      Vegetation_1_133: 1578841780
+      Vegetation_1_134: -630015111
+      Vegetation_1_135: -7107288
+      Vegetation_1_136: 1029359652
+      Vegetation_1_137: 620300475
+      Vegetation_1_138: -666943041
+      Vegetation_1_139: -491547384
+      Vegetation_1_14: -423656597
+      Vegetation_1_140: 45473125
+      Vegetation_1_141: 52573931
+      Vegetation_1_142: 411410371
+      Vegetation_1_143: 1302419046
+      Vegetation_1_144: -815607101
+      Vegetation_1_145: -585770052
+      Vegetation_1_146: 983861063
+      Vegetation_1_147: 67003897
+      Vegetation_1_148: -1550501282
+      Vegetation_1_149: 2069908382
+      Vegetation_1_15: 1715810362
+      Vegetation_1_150: -1845529020
+      Vegetation_1_151: 356920483
+      Vegetation_1_152: -703160064
+      Vegetation_1_153: -724320617
+      Vegetation_1_154: -1961253265
+      Vegetation_1_156: -1424609771
+      Vegetation_1_157: 1009894747
+      Vegetation_1_158: -1195549755
+      Vegetation_1_159: 909252846
+      Vegetation_1_16: -124819313
+      Vegetation_1_160: -1136461573
+      Vegetation_1_161: -566305983
+      Vegetation_1_162: 984792517
+      Vegetation_1_164: 1507041465
+      Vegetation_1_165: 1210167785
+      Vegetation_1_166: 1790415237
+      Vegetation_1_167: -1641657204
+      Vegetation_1_168: -1206165829
+      Vegetation_1_169: -1361548679
+      Vegetation_1_17: -1390641993
+      Vegetation_1_170: 459525196
+      Vegetation_1_18: 2107190490
+      Vegetation_1_19: -809558697
+      Vegetation_1_2: 1435816616
+      Vegetation_1_20: -1117077985
+      Vegetation_1_21: -728569347
+      Vegetation_1_22: -1940885028
+      Vegetation_1_23: -1733604037
+      Vegetation_1_24: 377015039
+      Vegetation_1_25: 591976204
+      Vegetation_1_26: -2112136582
+      Vegetation_1_27: -1685886056
+      Vegetation_1_28: 1918094346
+      Vegetation_1_29: -1340905235
+      Vegetation_1_3: -2054854520
+      Vegetation_1_30: 1413824363
+      Vegetation_1_31: 2088387156
+      Vegetation_1_32: -1401062714
+      Vegetation_1_33: 632623739
+      Vegetation_1_34: 989630425
+      Vegetation_1_35: 729319381
+      Vegetation_1_37: 1693302605
+      Vegetation_1_38: 1337911820
+      Vegetation_1_39: -1867347374
+      Vegetation_1_4: 801660176
+      Vegetation_1_41: 1657390687
+      Vegetation_1_42: -698543970
+      Vegetation_1_43: 1271521313
+      Vegetation_1_44: -1330851586
+      Vegetation_1_45: 1986620605
+      Vegetation_1_46: -307205239
+      Vegetation_1_47: 424314619
+      Vegetation_1_49: 767507878
+      Vegetation_1_5: 342749146
+      Vegetation_1_50: 531089092
+      Vegetation_1_51: -350281144
+      Vegetation_1_52: 1831232349
+      Vegetation_1_53: -1329373705
+      Vegetation_1_54: -329227041
+      Vegetation_1_55: 1309964909
+      Vegetation_1_56: 1249287120
+      Vegetation_1_57: 695820173
+      Vegetation_1_58: 2101682185
+      Vegetation_1_59: -1350173343
+      Vegetation_1_60: 1652672523
+      Vegetation_1_61: 830474870
+      Vegetation_1_62: 737836525
+      Vegetation_1_63: 1739716112
+      Vegetation_1_64: -1709931828
+      Vegetation_1_65: -2143342867
+      Vegetation_1_66: -1328152559
+      Vegetation_1_67: -989855770
+      Vegetation_1_68: 498755835
+      Vegetation_1_69: 968332839
+      Vegetation_1_7: 2128214680
+      Vegetation_1_70: 2106874453
+      Vegetation_1_71: 1424249903
+      Vegetation_1_72: -1141458714
+      Vegetation_1_73: 778482396
+      Vegetation_1_74: 1310301331
+      Vegetation_1_75: -1311721024
+      Vegetation_1_76: -367312757
+      Vegetation_1_77: -21878093
+      Vegetation_1_78: 1373538161
+      Vegetation_1_79: -160215720
+      Vegetation_1_8: -966731041
+      Vegetation_1_80: 1604289312
+      Vegetation_1_81: 1038355668
+      Vegetation_1_82: -1582451269
+      Vegetation_1_83: -1012572043
+      Vegetation_1_84: 1662204583
+      Vegetation_1_85: -267963478
+      Vegetation_1_86: 1120779217
+      Vegetation_1_87: 335665242
+      Vegetation_1_88: 318501002
+      Vegetation_1_89: -6818130
+      Vegetation_1_9: -1450944739
+      Vegetation_1_90: 1205845705
+      Vegetation_1_91: -1725414072
+      Vegetation_1_92: 2128675253
+      Vegetation_1_94: 1924972213
+      Vegetation_1_95: -791712448
+      Vegetation_1_96: 501558675
+      Vegetation_1_98: -1718887353
+      Vegetation_1_99: 1902447364
+      Vegetation_grass: -1470144054
+      Vegetation_grass_large: -483229880
+      Vegetation_grass_medium: -1817432120
+      Vegetation_grass_short: -1207230241
+      Vegetation_plant_01: -1362765098
+      Vegetation_plant_02: -684127484
+      Vegetation_plant_03: 1866412617
+      Vegetation_plant_04: -1940045291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
