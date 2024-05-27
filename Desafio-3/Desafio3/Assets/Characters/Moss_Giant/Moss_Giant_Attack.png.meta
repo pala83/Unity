@@ -113,12 +113,12 @@ TextureImporter:
       name: Moss_Giant_Attack_0
       rect:
         serializedVersion: 2
-        x: 88
-        y: 1654
-        width: 238
-        height: 192
-      alignment: 9
-      pivot: {x: 0.7436975, y: 0.0052083335}
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -131,204 +131,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Moss_Giant_Attack_01
-      rect:
-        serializedVersion: 2
-        x: 591
-        y: 1654
-        width: 286
-        height: 188
-      alignment: 9
-      pivot: {x: 0.6433566, y: 0.010638298}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1dcf1ba1e342750068d15e5b9986bc75
-      internalID: 2013507284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss_Giant_Attack_02
-      rect:
-        serializedVersion: 2
-        x: 1084
-        y: 1652
-        width: 339
-        height: 201
-      alignment: 9
-      pivot: {x: 0.58997047, y: 0.019900497}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c14902ce6bf6cb7db0d256ee43e1dae
-      internalID: 1351276232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss_Giant_Attack_03
-      rect:
-        serializedVersion: 2
-        x: 1577
-        y: 1651
-        width: 358
-        height: 208
-      alignment: 9
-      pivot: {x: 0.6117318, y: 0.024038462}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2df3b4da7dfc24bfd9a01f2eaf9e36ce
-      internalID: -1705615730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss_Giant_Attack_04
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 1139
-        width: 345
-        height: 256
-      alignment: 9
-      pivot: {x: 0.64927536, y: 0.01953125}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0ee2281fa6a3f5feaffc3f9a49f3ec6
-      internalID: -365004932
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss_Giant_Attack_05
-      rect:
-        serializedVersion: 2
-        x: 575
-        y: 1139
-        width: 338
-        height: 321
-      alignment: 9
-      pivot: {x: 0.58284026, y: 0.009345794}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b601eb36d64001b0ead4fa37873c5f00
-      internalID: 1307925724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss_Giant_Attack_06
-      rect:
-        serializedVersion: 2
-        x: 1156
-        y: 1133
-        width: 271
-        height: 356
-      alignment: 9
-      pivot: {x: 0.4575646, y: 0.033707865}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 546bb539f2bf3e810a50a211ebaea6fb
-      internalID: -1948349504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss_Giant_Attack_07
-      rect:
-        serializedVersion: 2
-        x: 1767
-        y: 1133
-        width: 279
-        height: 357
-      alignment: 9
-      pivot: {x: 0.09677419, y: 0.033613447}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88a8dc1fd1d20f6f6a334b7b470036f5
-      internalID: -1584562785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss_Giant_Attack_08
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 627
-        width: 273
-        height: 270
-      alignment: 9
-      pivot: {x: 0.03663004, y: 0.02222222}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad85762ce4d1885ba9523b3a871f494e
-      internalID: -734818618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss_Giant_Attack_09
-      rect:
-        serializedVersion: 2
-        x: 757
-        y: 621
-        width: 263
-        height: 192
-      alignment: 9
-      pivot: {x: 0.0114068445, y: 0.0625}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b4cdcc1208ca59e68dbdf3d03981a09
-      internalID: 556392756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Moss_Giant_Attack_10
       rect:
         serializedVersion: 2
-        x: 1268
-        y: 620
-        width: 190
-        height: 192
-      alignment: 9
-      pivot: {x: 0.005263158, y: 0.0625}
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -344,12 +155,12 @@ TextureImporter:
       name: Moss_Giant_Attack_11
       rect:
         serializedVersion: 2
-        x: 1772
-        y: 620
-        width: 161
-        height: 199
-      alignment: 9
-      pivot: {x: 0.055900622, y: 0.06532663}
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -365,12 +176,12 @@ TextureImporter:
       name: Moss_Giant_Attack_12
       rect:
         serializedVersion: 2
-        x: 243
-        y: 109
-        width: 154
-        height: 190
-      alignment: 9
-      pivot: {x: 0.0064935065, y: 0.0631579}
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -386,12 +197,12 @@ TextureImporter:
       name: Moss_Giant_Attack_13
       rect:
         serializedVersion: 2
-        x: 683
-        y: 111
-        width: 210
-        height: 207
-      alignment: 9
-      pivot: {x: 0.35714287, y: 0.048309177}
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -407,12 +218,12 @@ TextureImporter:
       name: Moss_Giant_Attack_14
       rect:
         serializedVersion: 2
-        x: 1189
-        y: 112
-        width: 219
-        height: 170
-      alignment: 9
-      pivot: {x: 0.45205477, y: 0.05263158}
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -428,12 +239,12 @@ TextureImporter:
       name: Moss_Giant_Attack_15
       rect:
         serializedVersion: 2
-        x: 1702
-        y: 112
-        width: 237
-        height: 193
-      alignment: 9
-      pivot: {x: 0.39662445, y: 0.041450776}
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,6 +252,195 @@ TextureImporter:
       bones: []
       spriteID: e50d6e0c158fcd727a51552992abce7f
       internalID: -1515343563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1956c44fc76d371a13d92f96337bac
+      internalID: 616325389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d39f7929a40dcd02b98c79ab6bd1e9f
+      internalID: -388926328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1534
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd675dc23a7d85943a2f0240fcb4de3f
+      internalID: 1353797679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0a9047514836bf0b4c5d8f6db5ff16
+      internalID: -38284525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17938c8515d5c6fb88afec9eccd24727
+      internalID: -1013693016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419e6b6bafc536bf9b73b828892a7bf
+      internalID: -1698939086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235184e88091dcfe87690f4e8135156
+      internalID: -1710810572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7653eb8f52c6cbfebff7ffff8832a33
+      internalID: 1380198089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00e362a72a1a7f69b2103f2051347d0
+      internalID: 2057292100
       vertices: []
       indices: 
       edges: []
@@ -457,15 +457,6 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Moss_Giant_Attack_0: 1773264433
-      Moss_Giant_Attack_01: 2013507284
-      Moss_Giant_Attack_02: 1351276232
-      Moss_Giant_Attack_03: -1705615730
-      Moss_Giant_Attack_04: -365004932
-      Moss_Giant_Attack_05: 1307925724
-      Moss_Giant_Attack_06: -1948349504
-      Moss_Giant_Attack_07: -1584562785
-      Moss_Giant_Attack_08: -734818618
-      Moss_Giant_Attack_09: 556392756
       Moss_Giant_Attack_1: 616325389
       Moss_Giant_Attack_10: -1888850176
       Moss_Giant_Attack_11: 1625834731
@@ -473,8 +464,14 @@ TextureImporter:
       Moss_Giant_Attack_13: -241169689
       Moss_Giant_Attack_14: -1346377670
       Moss_Giant_Attack_15: -1515343563
-      Moss_Giant_Attack_16: -1705198828
-      Moss_Giant_Attack_17: 1677607085
+      Moss_Giant_Attack_2: -388926328
+      Moss_Giant_Attack_3: 1353797679
+      Moss_Giant_Attack_4: -38284525
+      Moss_Giant_Attack_5: -1013693016
+      Moss_Giant_Attack_6: -1698939086
+      Moss_Giant_Attack_7: -1710810572
+      Moss_Giant_Attack_8: 1380198089
+      Moss_Giant_Attack_9: 2057292100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

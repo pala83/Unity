@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 4208516021
+    locked: 0
+  - name: Ground
+    uniqueID: 1477538777
+    locked: 0
+  - name: Decorative
+    uniqueID: 3928878589
+    locked: 0
+  - name: Collidable
+    uniqueID: 2823356347
+    locked: 0
+  - name: Player
+    uniqueID: 2826216847
+    locked: 0
